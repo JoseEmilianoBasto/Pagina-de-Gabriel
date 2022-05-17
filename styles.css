@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(226, 253, 244)
+}
+
+h2 {
+    color: rgb(109, 142, 233);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    color: rgb(255, 140, 0);
+}
+
+hr {
+    border-top: 12px dotted gray;
+    border-right: 12px dotted gray;
+    border-left: 12px dotted gray;
+    border-bottom: 0px;
+}
+
+img {
+    height: 350px;
+}
